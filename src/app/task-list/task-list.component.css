@@ -1,0 +1,31 @@
+.text-decoration {
+    text-decoration: line-through;
+  }
+  .container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.list-group-item {
+  display: flex;
+  align-items: center;
+}
+
+.form-check-input {
+  margin-right: 10px;
+}
+
+
+
+.input-group-btn {
+  display: flex;
+}
+
+.btn-primary {
+  border-radius: 0 5px 5px 0;
+}
+
+.form-control:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
